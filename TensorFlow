@@ -1,0 +1,10 @@
+TensorFlow is a powerful open source software library for numerical computation, particularly well suited and fine-tuned 
+for large-scale Machine Learning. Its basic principle is simple: you first define in Python a graph of computations to perform
+and then TensorFlow takes that graph and runs it efficiently using optimized C++ code.
+ It runs not only on Windows, Linux, and macOS, but also on mobile devices, including both iOS and Android.
+ It provides a very simple Python API called TF.Learn2 (tensorflow.con trib.learn), compatible with Scikit-Learn. 
+ As you will see, you can use it to train various types of neural networks in just a few lines of code. 
+ It was previously an independent project called Scikit Flow (or skflow).
+ Several other high-level APIs have been built independently on top of TensorFlow, such as Keras or Pretty Tensor
+ It also comes with a great visualization tool called TensorBoard that allows you to browse through the computation graph, 
+ view learning curves, and more.
